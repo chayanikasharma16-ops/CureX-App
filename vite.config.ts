@@ -2,10 +2,6 @@ import { defineConfig } from 'vite';
 import { GoogleGenAI } from '@google/genai';
 
 export default defineConfig({
-    base: '/CureX-App/',
-  server: {
-    port: 3000,
-  
   server: {
     port: 3000,
     host: '0.0.0.0',
