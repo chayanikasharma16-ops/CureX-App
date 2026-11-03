@@ -1,0 +1,6 @@
+{
+  "name": "CureX - Smart Medication & XR Health Assistant",
+  "description": "Smart medication adherence platform with voice reminders, strip scanner, eye & body health scans, emergency 102/WhatsApp dispatch, kid companion, and encrypted Google Docs records.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": []
+}
